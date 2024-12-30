@@ -23,7 +23,7 @@ Below is an overview of what these notes cover
 ------------------------
 **📚 Resources**
 -------------
-- You can access the complete notes and supplementary materials [here](https://tinyurl.com/sandeepjava).
+- You can access the complete notes and supplementary materials [here](https://tinyurl.com/sandeepshavukarijava).
 ---------------
 **✨ Contribute**
 -----------------
